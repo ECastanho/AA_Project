@@ -1,7 +1,8 @@
-N˙mero de estudante de Raquel Barreira
+N√∫mero de estudante de Raquel Barreira
 : 23142
 
-UM CONTRIBUTO PARA OS COMENT¡RIOS FINAIS
+
+UM CONTRIBUTO PARA OS COMENT√ÅRIOS FINAIS
 
 This dataset is challenging has there aremany missing values, in many cases due to negative answers to precedent questions. In order to run the models we had to make many assumptions which certainly have a reflect on the downstream analysis.
 
@@ -10,4 +11,9 @@ Classification models performance was not great (the maximum we have achieved fo
 Another thing that we can point out is that there are many questions that lack objectivity, and the dataset is biased in terms of gender, age and geographical location, which limits some of our analysis.
 
 Nonetheless, we have been able to find some clusters (SUMARIZAR OS PRINCIPAIS RESULTADOS DE CLUSTERING?)
+
+--AM--- 
+Andreia Martins 44918
+
+In the case of clustering, k-means grouped individuals based on how likely they were to discuss mental disorders, as well by wether they were self-employed or not. Although some results came to attention, there was no clear distinction between individuals with different disorders based on the used features. This could be due to the subjectivity of the answers, or to their actual relevance for the topic. Also, the split of the target into binary targets may have turned some options unfeasible, and a different approach to it may provide more pertinent conclusions about the data.
 
