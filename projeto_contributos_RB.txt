@@ -1,0 +1,13 @@
+Número de estudante de Raquel Barreira
+: 23142
+
+UM CONTRIBUTO PARA OS COMENTÁRIOS FINAIS
+
+This dataset is challenging has there aremany missing values, in many cases due to negative answers to precedent questions. In order to run the models we had to make many assumptions which certainly have a reflect on the downstream analysis.
+
+Classification models performance was not great (the maximum we have achieved for accuracy concerning the test set was 70%).
+
+Another thing that we can point out is that there are many questions that lack objectivity, and the dataset is biased in terms of gender, age and geographical location, which limits some of our analysis.
+
+Nonetheless, we have been able to find some clusters (SUMARIZAR OS PRINCIPAIS RESULTADOS DE CLUSTERING?)
+
